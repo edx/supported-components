@@ -1,0 +1,12 @@
+<problem display_name="Simple example" markdown="&gt;&gt;Which of the following are fruits?||Select all that apply. There may be more than one correct answer.&lt;&lt;&#10;&#10;[x] Apple&#10;[ ] Potato&#10;[ ] Broccoli&#10;[x] Banana " show_reset_button="true">
+  <choiceresponse>
+    <label>Which of the following are fruits?</label>
+    <description>Select all that apply. There may be more than one correct answer.</description>
+    <checkboxgroup>
+      <choice correct="true">Apple</choice>
+      <choice correct="false">Potato</choice>
+      <choice correct="false">Broccoli</choice>
+      <choice correct="true">Banana </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

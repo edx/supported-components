@@ -1,0 +1,10 @@
+<problem display_name="Example with Math in question and answers" markdown="&gt;&gt;If \(C = (F-32) * 5/9\) is the conversion formlua for Celcius, what is the formula for converting Celcius to Fahrenheit?&lt;&lt;&#10;&#10;(x) \(F = C * 9/5 +32\)&#10;() \(C = (F-32) * 5/9\)&#10;() \(F = (C+32) * 5/9\)&#10;&#10;" show_reset_button="true">
+  <multiplechoiceresponse>
+    <label>If \(C = (F-32) * 5/9\) is the conversion formlua for Celcius, what is the formula for converting Celcius to Fahrenheit?</label>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">\(F = C * 9/5 +32\)</choice>
+      <choice correct="false">\(C = (F-32) * 5/9\)</choice>
+      <choice correct="false">\(F = (C+32) * 5/9\)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Example with timer between attempts (10 seconds)" markdown="You can use this template as a guide to the simple editor markdown and OLX markup to use for dropdown problems. Edit this component to replace this template with your own assessment.&#10;&gt;&gt;Add the question text, or prompt, here. This text is required.||You can add an optional tip or note related to the prompt like this. &lt;&lt;&#10;[[&#10;an incorrect answer&#10;(the correct answer)&#10;an incorrect answer&#10;]]&#10;" show_reset_button="true" submission_wait_seconds="10">
+  <optionresponse>
+    <p>You can use this template as a guide to the simple editor markdown and OLX markup to use for dropdown problems. Edit this component to replace this template with your own assessment.</p>
+    <label>Add the question text, or prompt, here. This text is required.</label>
+    <description>You can add an optional tip or note related to the prompt like this. </description>
+    <optioninput>
+      <option correct="False">an incorrect answer</option>
+      <option correct="True">the correct answer</option>
+      <option correct="False">an incorrect answer</option>
+    </optioninput>
+  </optionresponse>
+</problem>

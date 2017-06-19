@@ -1,0 +1,11 @@
+<problem display_name="Simple example" markdown="&gt;&gt;What is the capital of Massachusetts?||Hint: It is also the most populous city.&lt;&lt;&#10;[[&#10;Springfield&#10;(Boston)&#10;Portland&#10;]]&#10;">
+  <optionresponse>
+    <label>What is the capital of Massachusetts?</label>
+    <description>Hint: It is also the most populous city.</description>
+    <optioninput>
+      <option correct="False">Springfield</option>
+      <option correct="True">Boston</option>
+      <option correct="False">Portland</option>
+    </optioninput>
+  </optionresponse>
+</problem>

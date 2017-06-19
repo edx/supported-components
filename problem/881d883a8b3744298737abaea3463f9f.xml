@@ -1,0 +1,12 @@
+<problem display_name="Example with Math in question and answers" markdown="&gt;&gt;Which of the following are equivalent to \(8+8\)?||Check all that apply.&lt;&lt;&#10;&#10;[x] 16&#10;[ ] 64&#10;[x] \(4+4+4+4\)&#10;[x] \(4^2\)&#10;" show_reset_button="true">
+  <choiceresponse>
+    <label>Which of the following are equivalent to \(8+8\)?</label>
+    <description>Check all that apply.</description>
+    <checkboxgroup>
+      <choice correct="true">16</choice>
+      <choice correct="false">64</choice>
+      <choice correct="true">\(4+4+4+4\)</choice>
+      <choice correct="true">\(4^2\)</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,7 @@
+<problem display_name="Example with Math in question and feedback" markdown="&gt;&gt;What is \(45/9\)?&lt;&lt;&#10;&#10;= 5 {{Which means that \(9*5=45\)}}" show_reset_button="true">
+  <numericalresponse answer="5">
+    <label>What is \(45/9\)?</label>
+    <formulaequationinput/>
+    <correcthint>Which means that \(9*5=45\)</correcthint>
+  </numericalresponse>
+</problem>

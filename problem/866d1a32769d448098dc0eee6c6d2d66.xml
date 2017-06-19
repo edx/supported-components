@@ -1,0 +1,13 @@
+<problem display_name="Example with hints and an explanation" markdown="&gt;&gt;How many feet are in a meter?||No need to be precise. A rough estimate will work.&lt;&lt;&#10;&#10;= 3.2808399 +-0.3 {{The answer is precisely 3.2808399.}}&#10;&#10;&#10;||A yard is equal to 3 feet||&#10;||A yard is a little shorter than a meter.||" show_reset_button="true">
+  <numericalresponse answer="3.2808399">
+    <label>How many feet are in a meter?</label>
+    <description>No need to be precise. A rough estimate will work.</description>
+    <responseparam type="tolerance" default="0.3"/>
+    <formulaequationinput/>
+    <correcthint>The answer is precisely 3.2808399.</correcthint>
+  </numericalresponse>
+  <demandhint>
+    <hint>A yard is equal to 3 feet</hint>
+    <hint>A yard is a little shorter than a meter.</hint>
+  </demandhint>
+</problem>

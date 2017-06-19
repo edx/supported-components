@@ -1,0 +1,6 @@
+<problem display_name="Simple Example" markdown="&gt;&gt;Who was the first president of the United States of America?&lt;&lt;&#10;&#10;= George Washington&#10;&#10;" show_reset_button="true">
+  <stringresponse answer="George Washington" type="ci">
+    <label>Who was the first president of the United States of America?</label>
+    <textline size="20"/>
+  </stringresponse>
+</problem>

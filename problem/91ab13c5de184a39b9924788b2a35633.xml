@@ -1,0 +1,8 @@
+<problem display_name="Simple example" markdown="&gt;&gt;What is the approximate sum of 20, 46 and 35||No need to be precise. A rough estimate will work.&lt;&lt;&#10;&#10;= 101 +-5 &#10;" show_reset_button="true">
+  <numericalresponse answer="101">
+    <label>What is the approximate sum of 20, 46 and 35</label>
+    <description>No need to be precise. A rough estimate will work.</description>
+    <responseparam type="tolerance" default="5 "/>
+    <formulaequationinput/>
+  </numericalresponse>
+</problem>

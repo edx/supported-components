@@ -1,0 +1,9 @@
+<problem display_name="Simple example with multiple allowable answers" markdown="&gt;&gt;What African-American led the United States civil rights movement during the 1960s?&lt;&lt;&#10;=Dr. Martin Luther King, Jr.&#10;or=Dr. Martin Luther King, Junior&#10;or=Martin Luther King, Jr.&#10;or=Martin Luther King" show_reset_button="true">
+  <stringresponse answer="Dr. Martin Luther King, Jr." type="ci">
+    <label>What African-American led the United States civil rights movement during the 1960s?</label>
+    <additional_answer answer="Dr. Martin Luther King, Junior"/>
+    <additional_answer answer="Martin Luther King, Jr."/>
+    <additional_answer answer="Martin Luther King"/>
+    <textline size="20"/>
+  </stringresponse>
+</problem>

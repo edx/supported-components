@@ -1,0 +1,12 @@
+<problem display_name="Example with partial credit (Halves Method)" markdown="null" show_reset_button="true">
+  <choiceresponse partial_credit="halves">
+    <label>Which of the following is a fruit?</label>
+    <description>Select all that apply.</description>
+    <checkboxgroup>
+      <choice correct="true">apple</choice>
+      <choice correct="true">pumpkin</choice>
+      <choice correct="false">potato</choice>
+      <choice correct="true">tomato</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,16 @@
+<problem display_name="Example with Feedback" markdown="&gt;&gt;Which of the following is an example of a vegetable?||You can select only one option.&lt;&lt;&#10;&#10;( ) apple {{An apple is the fertilized ovary that comes from an apple tree&#10;and contains seeds classifying it as a fruit.}}&#10;( ) pumpkin {{A pumpkin is the fertilized ovary of a squash plant and&#10;contains seeds classifying it as a fruit.}}&#10;(x) potato {{A potato is an edible part of a plant in tuber form and is&#10;classified as a vegetable}}&#10;( ) tomato {{Many people mistakenly think a tomato is a vegetable. However,&#10;because a tomato is the fertilized ovary of a tomato plant and contains&#10;seeds it is classified as a fruit.}}" show_reset_button="true">
+  <multiplechoiceresponse>
+    <label>Which of the following is an example of a vegetable?</label>
+    <description>You can select only one option.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">apple <choicehint>An apple is the fertilized ovary that comes from an apple tree and contains seeds classifying it as a fruit.</choicehint>
+</choice>
+      <choice correct="false">pumpkin <choicehint>A pumpkin is the fertilized ovary of a squash plant and contains seeds classifying it as a fruit.</choicehint>
+</choice>
+      <choice correct="true">potato <choicehint>A potato is an edible part of a plant in tuber form and is classified as a vegetable</choicehint>
+</choice>
+      <choice correct="false">tomato <choicehint>Many people mistakenly think a tomato is a vegetable. However, because a tomato is the fertilized ovary of a tomato plant and contains seeds it is classified as a fruit.</choicehint>
+</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

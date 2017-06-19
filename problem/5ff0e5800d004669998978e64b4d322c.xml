@@ -1,0 +1,18 @@
+<problem display_name="Example with hints" markdown="&gt;&gt;Which of the following are fruits?||Select all that apply. There may be more than one correct answer.&lt;&lt;&#10;&#10;[x] Apple&#10;[ ] Potato&#10;[ ] Broccoli&#10;[x] Banana &#10;&#10;||A fruit is the fertilized ovary from a flower.||&#10;||A fruit contains seeds of the plant.||&#10;||An apple contains seeds of the plant.||&#10;||You probably don't think of them as having seeds, but Bananas have seeds in the fleshy part||&#10;" show_reset_button="true">
+  <choiceresponse>
+    <label>Which of the following are fruits?</label>
+    <description>Select all that apply. There may be more than one correct answer.</description>
+    <checkboxgroup>
+      <choice correct="true">Apple</choice>
+      <choice correct="false">Potato</choice>
+      <choice correct="false">Broccoli</choice>
+      <choice correct="true">Banana </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <demandhint>
+    <hint>A fruit is the fertilized ovary from a flower.</hint>
+    <hint>A fruit contains seeds of the plant.</hint>
+    <hint>An apple contains seeds of the plant.</hint>
+    <hint>You probably don't think of them as having seeds, but Bananas have seeds in the fleshy part</hint>
+  </demandhint>
+</problem>

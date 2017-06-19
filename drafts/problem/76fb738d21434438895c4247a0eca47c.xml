@@ -1,0 +1,13 @@
+<problem display_name="Example with hints and custom feedback" markdown="&gt;&gt;What is the largest state in the U.S. in terms of land area?&lt;&lt;&#10;&#10;=Alaska {{Excellent work:: Alaska is the largest state in the U.S. in terms of not only land&#10;area, but also total area and water area. Alaska is 576,400 square miles,&#10;more than double the land area of the second largest state, Texas.}}&#10;&#10;not=Texas {{Note quite:: While many people think Texas is the largest state in terms of&#10;land area, it is actually the second largest and contains 261,797 square&#10;miles.}}&#10;&#10;not=California {{California is the third largest state and contains 155,959&#10;square miles.}}&#10;&#10;||It might not be part of the contiguous US.||&#10;||Many people believe it is Texas.||" show_reset_button="true">
+  <stringresponse answer="Alaska" type="ci">
+    <label>What is the largest state in the U.S. in terms of land area?</label>
+    <correcthint label="Excellent work">Alaska is the largest state in the U.S. in terms of not only land area, but also total area and water area. Alaska is 576,400 square miles, more than double the land area of the second largest state, Texas.</correcthint>
+    <stringequalhint answer="Texas" label="Note quite">While many people think Texas is the largest state in terms of land area, it is actually the second largest and contains 261,797 square miles.</stringequalhint>
+    <stringequalhint answer="California">California is the third largest state and contains 155,959 square miles.</stringequalhint>
+    <textline size="20"/>
+  </stringresponse>
+  <demandhint>
+    <hint>It might not be part of the contiguous US.</hint>
+    <hint>Many people believe it is Texas.</hint>
+  </demandhint>
+</problem>
