@@ -1,0 +1,10 @@
+<problem display_name="Text Input" markdown="null">
+  <stringresponse answer="Harvard">
+    <label>What Ivy League University was established in Cambridge, Massachusetts in 1636?</label>
+    <description>Use the hint to get the right answer</description>
+    <textline trailing_text="University"/>
+  </stringresponse>
+  <demandhint>
+    <hint>Harvard</hint>
+  </demandhint>
+</problem>

@@ -1,0 +1,32 @@
+<problem display_name="Example with feedback" markdown="&gt;&gt;Which of the following are fruits?||Select all that apply. There may be more than one correct answer.&lt;&lt;&#10;&#10;[x] Apple {{S: Yes, an apple is a fruit. U: Don't you know that an apple is a fruit? }}&#10;[ ] Potato {{S: A potato is not fleshy or seed based. U: A pototo is not fleshy or seed based. }}&#10;[ ] Broccoli {{S: Broccoli is good for you, but not a fruit U: Not a fruit, but you should eat more broccoli. }}&#10;[x] Banana {{S: Correct, a banana is a fruit. U: Perhaps if you ate  more fruits, you would know that a banana is one of them! }}&#10;&#10;{{((A D)) You clearly understand the difference between a fruit and a vegetable. Great job! }}&#10;{{((B C)) Those are both vegetables, silly.}}&#10;&#10;[explanation]&#10;In common language usage, &quot;fruit&quot; normally means the fleshy seed-associated structures of a plant that are sweet or sour, and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. On the other hand, in botanical usage, &quot;fruit&quot; includes many structures that are not commonly called &quot;fruits&quot;, such as bean pods, corn kernels, tomatoes, and wheat grains.&#10;[explanation]" show_reset_button="true">
+  <choiceresponse>
+    <label>Which of the following are fruits?</label>
+    <description>Select all that apply. There may be more than one correct answer.</description>
+    <checkboxgroup>
+      <choice correct="true">Apple
+      
+        <choicehint selected="true">Yes, an apple is a fruit. U: Don't you know that an apple is a fruit?</choicehint>
+      </choice>
+      <choice correct="false">Potato
+      
+        <choicehint selected="true">A potato is not fleshy or seed based. U: A pototo is not fleshy or seed based.</choicehint>
+      </choice>
+      <choice correct="false">Broccoli
+      
+        <choicehint selected="true">Broccoli is good for you, but not a fruit U: Not a fruit, but you should eat more broccoli.</choicehint>
+      </choice>
+      <choice correct="true">Banana
+      
+        <choicehint selected="true">Correct, a banana is a fruit. U: Perhaps if you ate  more fruits, you would know that a banana is one of them!</choicehint>
+      </choice>
+      <compoundhint value="A D">You clearly understand the difference between a fruit and a vegetable. Great job!</compoundhint>
+      <compoundhint value="B C">Those are both vegetables, silly.</compoundhint>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In common language usage, "fruit" normally means the fleshy seed-associated structures of a plant that are sweet or sour, and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. On the other hand, in botanical usage, "fruit" includes many structures that are not commonly called "fruits", such as bean pods, corn kernels, tomatoes, and wheat grains.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

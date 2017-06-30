@@ -1,0 +1,17 @@
+<problem display_name="Example with hints" markdown="&gt;&gt;Which of the following is an example of a vegetable?||You can select only one option.&lt;&lt;&#10;&#10;( ) apple&#10;( ) pumpkin&#10;(x) potato&#10;( ) tomato&#10;&#10;||An apple is a fruit||&#10;||Pumpkin leaves are considered a vegetable, but not the fruit itself!||&#10;||A tomato is often mistaken for a vegetable||" show_reset_button="true">
+  <multiplechoiceresponse>
+    <label>Which of the following is an example of a vegetable?</label>
+    <description>You can select only one option.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">apple</choice>
+      <choice correct="false">pumpkin</choice>
+      <choice correct="true">potato</choice>
+      <choice correct="false">tomato</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>An apple is a fruit</hint>
+    <hint>Pumpkin leaves are considered a vegetable, but not the fruit itself!</hint>
+    <hint>A tomato is often mistaken for a vegetable</hint>
+  </demandhint>
+</problem>

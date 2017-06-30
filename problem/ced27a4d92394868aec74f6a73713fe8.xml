@@ -1,0 +1,26 @@
+<problem display_name="Dropdown" markdown="&gt;&gt;What is the boiling temperature of water in Celcius?||You can convert Fahrenheit to Celcius with the following forumula: \(C = (F-32)*5/9\).&lt;&lt;&#10;[[&#10;32&amp;#176; {{Burr!:: 3232&amp;#176; is the temperature at which water freezes in Fahrenheit}}&#10;212&amp;#176; {{Almost:: 212&amp;#176; is the termperature at which water boils in Fahrenheit}}&#10;(100&amp;#176;) {{Correct, water boils at 100&amp;#176; Celcius}}&#10;451&amp;#176; {{Ouch!!:: Paper is reported to auto ignite at 451&amp;#176; Fahrenheit}}&#10;]]&#10;&#10;||212&amp;#176; is the correct temperature, as specified in Fahrenheit||&#10;||32&amp;#176; is too cold using either methods of specification||&#10;&#10;[explanation]&#10;Temperatures in Celcius are much more logical than Fahrenheit temperatures. Water freezes at 0&amp;#176; and boils at 100&amp;#176;. &#10;[explanation]" show_reset_button="true">
+  <optionresponse>
+    <label>What is the boiling temperature of water in Celcius?</label>
+    <description>You can convert Fahrenheit to Celcius with the following forumula: \(C = (F-32)*5/9\).</description>
+    <optioninput>
+      <option correct="False">32° <optionhint label="Burr!">3232° is the temperature at which water freezes in Fahrenheit</optionhint>
+</option>
+      <option correct="False">212° <optionhint label="Almost">212° is the termperature at which water boils in Fahrenheit</optionhint>
+</option>
+      <option correct="True">100° <optionhint>Correct, water boils at 100° Celcius</optionhint>
+</option>
+      <option correct="False">451° <optionhint label="Ouch!!">Paper is reported to auto ignite at 451° Fahrenheit</optionhint>
+</option>
+    </optioninput>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Temperatures in Celcius are much more logical than Fahrenheit temperatures. Water freezes at 0° and boils at 100°. </p>
+      </div>
+    </solution>
+  </optionresponse>
+  <demandhint>
+    <hint>212° is the correct temperature, as specified in Fahrenheit</hint>
+    <hint>32° is too cold using either methods of specification</hint>
+  </demandhint>
+</problem>

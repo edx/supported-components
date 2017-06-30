@@ -1,0 +1,10 @@
+<problem display_name="Numerical Input with trailing text after input" markdown="null">
+  <numericalresponse answer="9.81">
+    <label>What is the strength of Earth's gravity, to two decimal places?</label>
+    <description>Use the hint to get the right answer</description>
+    <formulaequationinput trailing_text="\(m/s^{2}\)"/>
+  </numericalresponse>
+  <demandhint>
+    <hint>9.81</hint>
+  </demandhint>
+</problem>

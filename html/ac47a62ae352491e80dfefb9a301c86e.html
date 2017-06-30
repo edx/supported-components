@@ -1,0 +1,77 @@
+<p>EdX allows authors to create content using either a limited WYSIWYG&nbsp;editor (Visual editor), or a Raw HTML editor. &nbsp;When an author chooses the HTML Component button, they are presented with a list of 4 supported components:</p>
+<ul>
+<li>Text</li>
+<li><span style="font-size: 1em;">Announcement</span></li>
+<li><span style="font-size: 1em;">iFrame</span></li>
+<li><span style="font-size: 1em;">Raw HTML</span></li>
+</ul>
+<p><span style="font-size: 1em;">The first three options are identical, with the exception of the default text that is present when the Visual editor is initialized. Authors have the full power and flexibility of HTML available to them when using the Raw HTML editor. &nbsp;</span></p>
+<p><span style="font-size: 1em;">Authors who use the WYSIWYG editor can create the following types of HTML elements:</span></p>
+<ul>
+<li>Paragraphs</li>
+<li>Headings (H3-H6)</li>
+<li>Preformatted text blocks</li>
+<li>Code blocks</li>
+<li>Unordered lists</li>
+<li>Ordered lists</li>
+<li>Blockquotes</li>
+<li>Hyperlinks</li>
+<li>Images</li>
+</ul>
+<p>Authors have the following text formatting options available to them when they are using the Visual&nbsp;editor:</p>
+<ul>
+<li>Font</li>
+<li>Bold</li>
+<li>Italics</li>
+<li>Underline</li>
+<li>Text color</li>
+<li>Nesting level (for lists)</li>
+</ul>
+<h3>Sample content</h3>
+<p>Examples of a Heading Level 3, paragraphs, and unordered lists are available above. Following are examples of other types of content and formatting you can create using the Visual editor. We will not include examples of everything you can do with the Raw HTML editor. &nbsp;Course teams are responsible for ensuring the accessibility of the content they create using the Raw HTML editor.</p>
+<h4>Formatting</h4>
+<p>Authors can create <strong>bold</strong>, <em>italic</em>, and <span style="text-decoration: underline;">underlined</span> text. They can even change the <span style="color: #008000;">color</span> of text, or <span style="text-decoration: underline; color: #008000;"><em><strong>combine</strong></em></span> all of the formats just mentioned.</p>
+<h5>Code blocks</h5>
+<p>You can use the Visual editor to easily author blocks of code:</p>
+<p><span face="monospace, serif" style="font-family: monospace, serif;"># Prints out the numbers 0,1,2,3,4</span></p>
+<p><span face="monospace, serif" style="font-family: monospace, serif;">for x in xrange(5): # or range(5)</span></p>
+<p><span face="monospace, serif" style="font-family: monospace, serif;">&nbsp; &nbsp; print x</span></p>
+<h5>Preformatted text</h5>
+<p>Or you can author preformatted text:</p>
+<pre># Prints out the numbers 0,1,2,3,4
+for x in xrange(5): # or range(5)
+    print x</pre>
+<h5>Lists</h5>
+<p>In addition to a bulleted (unordered) list, you can also create ordered lists:</p>
+<ol>
+<li>Do this first</li>
+<li>Do this next</li>
+<li>Then perform this final step</li>
+</ol>
+<h6>Nested lists</h6>
+<p>Lists can sometimes be more complicated. You can use the Visual editor's Increase and Decrease indent tools to created nested lists.</p>
+<ol>
+<li>Get in car</li>
+<li>Drive to the store</li>
+<li>Purchase:
+<ul>
+<li>Cheese</li>
+<li>Eggs</li>
+<li>Milk</li>
+</ul>
+</li>
+<li>Return home</li>
+</ol>
+<h5>Blockquotes</h5>
+<blockquote>
+<p>A large number of students around the world don't really have access to high quality education. So, launching EdX allows students all over the world to have much better access to a high quality education from a university such as Harvard, MIT, Berkeley and others as we add more universities. <br />~ Anant Agarwal</p>
+</blockquote>
+<h5>Hyperlinks</h5>
+<p>The Visual editor makes it very easy to create links to external resources, like the edX Documentation for&nbsp;<a href="http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/index.html" target="[object Object]">Building and Running an edX Course</a>.</p>
+<h5>Images</h5>
+<p>The visual editor also makes it easy to embed an image into your content:</p>
+<p><img src="/static/edx-logo-header.png" alt="The edX Logo" type="saveimage" target="[object Object]" width="93" height="47" /></p>
+<p>If the image is purely decorative, you can omit the "description" and render the image with an empty alt attribute:</p>
+<p><img src="/static/edx-logo-header.png" alt="" type="saveimage" target="[object Object]" preventdefault="function (){r.isDefaultPrevented=n}" stoppropagation="function (){r.isPropagationStopped=n}" stopimmediatepropagation="function (){r.isImmediatePropagationStopped=n}" isdefaultprevented="function t(){return!1}" ispropagationstopped="function t(){return!1}" isimmediatepropagationstopped="function t(){return!1}" width="93" height="47" /></p>
+<p>You can insert an image and then make it link to somewhere:</p>
+<p><a href="https://www.edx.org/" target="[object Object]"><img src="/static/edx-logo-header.png" alt="The edX Home Page" type="saveimage" target="[object Object]" preventdefault="function (){r.isDefaultPrevented=n}" stoppropagation="function (){r.isPropagationStopped=n}" stopimmediatepropagation="function (){r.isImmediatePropagationStopped=n}" isdefaultprevented="function t(){return!1}" ispropagationstopped="function t(){return!1}" isimmediatepropagationstopped="function t(){return!1}" width="93" height="47" /></a></p>

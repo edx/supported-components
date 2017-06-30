@@ -1,0 +1,9 @@
+<video url_name="213f4575fee346d98eb9b187971d0780" display_name="Chocolate Rain" download_track="true" download_video="true" handout="/asset-v1:edX+TC102+2016+type@asset+block@ChocolateRain.html" html5_sources="[&quot;https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogv&quot;, &quot;https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogg&quot;]" only_on_web="true" sub="asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain" track="https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.srt" transcripts="{&quot;fr&quot;: &quot;chocolate_rain_fr.srt&quot;, &quot;de&quot;: &quot;chocolate_rain_de.srt&quot;, &quot;es&quot;: &quot;chocolate_rain_es.srt&quot;}" youtube_id_1_0="">
+  <source src="https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogv"/>
+  <source src="https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogg"/>
+  <track src="https://edge.edx.org/asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.srt"/>
+  <handout src="/asset-v1:edX+TC102+2016+type@asset+block@ChocolateRain.html"/>
+  <transcript language="de" src="chocolate_rain_de.srt"/>
+  <transcript language="es" src="chocolate_rain_es.srt"/>
+  <transcript language="fr" src="chocolate_rain_fr.srt"/>
+</video>

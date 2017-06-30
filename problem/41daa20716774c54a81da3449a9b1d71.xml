@@ -1,0 +1,18 @@
+<problem display_name="Example with explanation" markdown="&gt;&gt;What is the boiling temperature of water in Celcius?||You can convert Fahrenheit to Celcius with the following forumula: \(C = (F-32)*5/9\).&lt;&lt;&#10;[[&#10;32&amp;#176;&#10;212&amp;#176;&#10;(100&amp;#176;)&#10;451&amp;#176;&#10;]]&#10;&#10;[explanation]&#10;Temperatures in Celcius are much more logical than Fahrenheit temperatures. Water freezes at 0&amp;#176; and boils at 100&amp;#176;. &#10;[explanation]" show_reset_button="true">
+  <optionresponse>
+    <label>What is the boiling temperature of water in Celcius?</label>
+    <description>You can convert Fahrenheit to Celcius with the following forumula: \(C = (F-32)*5/9\).</description>
+    <optioninput>
+      <option correct="False">32°</option>
+      <option correct="False">212°</option>
+      <option correct="True">100°</option>
+      <option correct="False">451°</option>
+    </optioninput>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Temperatures in Celcius are much more logical than Fahrenheit temperatures. Water freezes at 0° and boils at 100°. </p>
+      </div>
+    </solution>
+  </optionresponse>
+</problem>

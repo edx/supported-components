@@ -1,0 +1,29 @@
+<vertical display_name="Peer Instruction">
+  <ubcpi url_name="b276c251cdcc4e129a60553d36f307ec" rationale_size_min="1" rationale_size_max="32000" algorithm="simple" num_responses="#">
+    <display_name>Peer Instruction Question</display_name>
+    <question>
+      <text>&lt;p&gt;Where does most of the mass in a fully grown tree originate?&lt;/p&gt;</text>
+      <image position="below" show_fields="0" alt=""></image>
+    </question>
+    <options>
+      <option correct="True">
+        <rationale>Photosynthesis</rationale>
+        <text>Air</text>
+        <image position="below" show_fields="0" alt=""></image>
+      </option>
+      <option>
+        <text>Soil</text>
+        <image position="below" show_fields="0" alt=""></image>
+      </option>
+      <option>
+        <text>Water</text>
+        <image position="below" show_fields="0" alt=""></image>
+      </option>
+    </options>
+    <seeds>
+      <seed option="1">Tree gets carbon from air.</seed>
+      <seed option="2">Tree gets minerals from soil.</seed>
+      <seed option="3">Tree drinks water.</seed>
+    </seeds>
+  </ubcpi>
+</vertical>

@@ -1,0 +1,12 @@
+<problem display_name="Example with a timer between attempts (10 seconds)" markdown="&gt;&gt;Which of the following is an example of a vegetable?||You can select only one option.&lt;&lt;&#10;&#10;( ) apple&#10;( ) pumpkin&#10;(x) potato&#10;( ) tomato" show_reset_button="true">
+  <multiplechoiceresponse>
+    <label>Which of the following is an example of a vegetable?</label>
+    <description>You can select only one option.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">apple</choice>
+      <choice correct="false">pumpkin</choice>
+      <choice correct="true">potato</choice>
+      <choice correct="false">tomato</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

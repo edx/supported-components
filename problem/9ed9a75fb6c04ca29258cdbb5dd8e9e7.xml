@@ -1,0 +1,18 @@
+<problem display_name="Example with explanation" markdown="&gt;&gt;Learning about the benefits of preventative health care can be particularly difficult.||Check all of the options below that might be reasons why.&lt;&lt;&#10;&#10;[x] A large amount of time passes between undertaking a preventative measure and seeing the result.&#10;[ ] Non-immunized people will always fall sick.&#10;[x] If others are immunized, fewer people will fall sick regardless of a particular individual's choice to get immunized or not.&#10;[x] Trust in health care professionals and government officials is fragile.&#10;&#10;[explanation]&#10;People who are not immunized against a disease might still not fall sick from the disease. If someone is trying to learn whether or not preventative measures against the disease have any impact, he or she might see these people and conclude, since they have remained healthy despite not being immunized, that immunizations have no effect. Consequently, he or she would tend to believe that immunization (or other preventative measures) have fewer benefits than they actually do.&#10;[explanation]" show_reset_button="true">
+  <choiceresponse>
+    <label>Learning about the benefits of preventative health care can be particularly difficult.</label>
+    <description>Check all of the options below that might be reasons why.</description>
+    <checkboxgroup>
+      <choice correct="true">A large amount of time passes between undertaking a preventative measure and seeing the result.</choice>
+      <choice correct="false">Non-immunized people will always fall sick.</choice>
+      <choice correct="true">If others are immunized, fewer people will fall sick regardless of a particular individual's choice to get immunized or not.</choice>
+      <choice correct="true">Trust in health care professionals and government officials is fragile.</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>People who are not immunized against a disease might still not fall sick from the disease. If someone is trying to learn whether or not preventative measures against the disease have any impact, he or she might see these people and conclude, since they have remained healthy despite not being immunized, that immunizations have no effect. Consequently, he or she would tend to believe that immunization (or other preventative measures) have fewer benefits than they actually do.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

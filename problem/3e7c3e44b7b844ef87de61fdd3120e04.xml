@@ -1,0 +1,14 @@
+<problem display_name="Example with partial credit" markdown="null" show_reset_button="true">
+  <multiplechoiceresponse>
+    <label>Which of the following is an example of a vegetable?</label>
+    <description>You can select only one option.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">apple</choice>
+      <choice correct="partial" point_value="0.5">pumpkin
+      <choicehint>The leaves of the pumpkin are a vegetable, but not the fruit itself.</choicehint>
+    </choice>
+      <choice correct="true">potato</choice>
+      <choice correct="false">tomato</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

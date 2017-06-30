@@ -1,0 +1,12 @@
+<problem display_name="Example with timer between attempts (10 seconds)" markdown="&gt;&gt;Which of the following are fruits?||Select all that apply. There may be more than one correct answer.&lt;&lt;&#10;&#10;[x] Apple&#10;[ ] Potato&#10;[ ] Broccoli&#10;[x] Banana &#10;" show_reset_button="true" submission_wait_seconds="10">
+  <choiceresponse>
+    <label>Which of the following are fruits?</label>
+    <description>Select all that apply. There may be more than one correct answer.</description>
+    <checkboxgroup>
+      <choice correct="true">Apple</choice>
+      <choice correct="false">Potato</choice>
+      <choice correct="false">Broccoli</choice>
+      <choice correct="true">Banana </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>
