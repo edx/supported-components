@@ -1,71 +1,67 @@
 {
     "course/course": {
         "advanced_modules": [
-            "poll",
-            "survey",
-            "ubcpi",
+            "poll", 
+            "survey", 
+            "ubcpi", 
             "word_cloud"
-        ],
-        "allow_unsupported_xblocks": true,
-        "cert_html_view_enabled": true,
-        "course_image": "edX101MarketingContent_DashboardImage.png",
+        ], 
+        "allow_unsupported_xblocks": true, 
+        "cert_html_view_enabled": true, 
+        "course_image": "edX101MarketingContent_DashboardImage.png", 
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
-        },
-        "display_coursenumber": null,
-        "display_name": "Supported Components",
-        "display_organization": "edX",
-        "end": "2030-12-31T23:30:00Z",
-        "enrollment_end": "2030-12-31T23:30:00Z",
-        "enrollment_start": "2016-01-01T00:00:00Z",
+        }, 
+        "display_name": "Supported Components", 
+        "end": "2030-12-31T23:30:00Z", 
+        "enrollment_end": "2030-12-31T23:30:00Z", 
+        "enrollment_start": "2016-01-01T00:00:00Z", 
         "instructor_info": {
             "instructors": []
-        },
-        "language": "en",
-        "learning_info": [],
-        "self_paced": true,
-        "start": "2016-01-01T00:00:00Z",
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "self_paced": true, 
+        "start": "2016-01-01T00:00:00Z", 
         "tabs": [
             {
-                "course_staff_only": false,
-                "name": "Home",
+                "course_staff_only": false, 
+                "name": "Home", 
                 "type": "course_info"
-            },
+            }, 
             {
-                "course_staff_only": false,
-                "name": "Course",
+                "course_staff_only": false, 
+                "name": "Course", 
                 "type": "courseware"
-            },
+            }, 
             {
-                "course_staff_only": false,
-                "name": "Textbooks",
+                "course_staff_only": false, 
+                "name": "Textbooks", 
                 "type": "textbooks"
-            },
+            }, 
             {
-                "course_staff_only": false,
-                "name": "Discussion",
+                "course_staff_only": false, 
+                "name": "Discussion", 
                 "type": "discussion"
-            },
+            }, 
             {
-                "course_staff_only": false,
-                "name": "Wiki",
+                "course_staff_only": false, 
+                "name": "Wiki", 
                 "type": "wiki"
-            },
+            }, 
             {
-                "course_staff_only": false,
-                "name": "Progress",
+                "course_staff_only": false, 
+                "name": "Progress", 
                 "type": "progress"
             }
-        ],
+        ], 
         "xml_attributes": {
             "filename": [
-                "course/course.xml",
+                "course/course.xml", 
                 "course/course.xml"
-            ],
-            "ispublic": false,
-            "show_chat": true
+            ]
         }
     }
 }
