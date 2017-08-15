@@ -3,7 +3,7 @@
         "contentType": "text/html", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "ChocolateRain.html", 
             "org": "edX", 
             "revision": null, 
@@ -11,7 +11,7 @@
             "tag": "c4x"
         }, 
         "displayname": "ChocolateRain.html", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@ChocolateRain.html", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@ChocolateRain.html", 
         "import_path": "ChocolateRain.html", 
         "locked": false, 
         "thumbnail_location": null
@@ -20,7 +20,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "advanced.png", 
             "org": "edX", 
             "revision": null, 
@@ -28,13 +28,13 @@
             "tag": "c4x"
         }, 
         "displayname": "advanced.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@advanced.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@advanced.png", 
         "import_path": "advanced.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "advanced-png.jpg", 
             null
@@ -44,7 +44,7 @@
         "contentType": "video/mp4", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain.mp4", 
             "org": "edX", 
             "revision": null, 
@@ -52,7 +52,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain.mp4", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain.mp4", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.mp4", 
         "import_path": "chocolate_rain.mp4", 
         "locked": false, 
         "thumbnail_location": null
@@ -61,7 +61,7 @@
         "contentType": "audio/ogg", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain.ogg", 
             "org": "edX", 
             "revision": null, 
@@ -69,7 +69,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain.ogg", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain.ogg", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogg", 
         "import_path": "chocolate_rain.ogg", 
         "locked": false, 
         "thumbnail_location": null
@@ -78,7 +78,7 @@
         "contentType": "video/ogg", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain.ogv", 
             "org": "edX", 
             "revision": null, 
@@ -86,7 +86,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain.ogv", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain.ogv", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.ogv", 
         "import_path": "chocolate_rain.ogv", 
         "locked": false, 
         "thumbnail_location": null
@@ -95,7 +95,7 @@
         "contentType": "application/octet-stream", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain.srt", 
             "org": "edX", 
             "revision": null, 
@@ -103,7 +103,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain.srt", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain.srt", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.srt", 
         "import_path": "chocolate_rain.srt", 
         "locked": false, 
         "thumbnail_location": null
@@ -112,7 +112,7 @@
         "contentType": "application/octet-stream", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain_de.srt", 
             "org": "edX", 
             "revision": null, 
@@ -120,7 +120,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain_de.srt", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain_de.srt", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain_de.srt", 
         "import_path": "chocolate_rain_de.srt", 
         "locked": false, 
         "thumbnail_location": null
@@ -129,7 +129,7 @@
         "contentType": "application/octet-stream", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain_es.srt", 
             "org": "edX", 
             "revision": null, 
@@ -137,7 +137,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain_es.srt", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain_es.srt", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain_es.srt", 
         "import_path": "chocolate_rain_es.srt", 
         "locked": false, 
         "thumbnail_location": null
@@ -146,7 +146,7 @@
         "contentType": "application/octet-stream", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "chocolate_rain_fr.srt", 
             "org": "edX", 
             "revision": null, 
@@ -154,7 +154,7 @@
             "tag": "c4x"
         }, 
         "displayname": "chocolate_rain_fr.srt", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@chocolate_rain_fr.srt", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain_fr.srt", 
         "import_path": "chocolate_rain_fr.srt", 
         "locked": false, 
         "thumbnail_location": null
@@ -163,7 +163,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "discussion80.png", 
             "org": "edX", 
             "revision": null, 
@@ -171,13 +171,13 @@
             "tag": "c4x"
         }, 
         "displayname": "discussion80.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@discussion80.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@discussion80.png", 
         "import_path": "discussion80.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "discussion80-png.jpg", 
             null
@@ -187,7 +187,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "edX101MarketingContent_DashboardImage.png", 
             "org": "edX", 
             "revision": null, 
@@ -195,13 +195,13 @@
             "tag": "c4x"
         }, 
         "displayname": "edX101MarketingContent_DashboardImage.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@edX101MarketingContent_DashboardImage.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@edX101MarketingContent_DashboardImage.png", 
         "import_path": "edX101MarketingContent_DashboardImage.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "edX101MarketingContent_DashboardImage-png.jpg", 
             null
@@ -211,7 +211,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "edx-logo-header.png", 
             "org": "edX", 
             "revision": null, 
@@ -219,13 +219,13 @@
             "tag": "c4x"
         }, 
         "displayname": "edx-logo-header.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@edx-logo-header.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@edx-logo-header.png", 
         "import_path": "edx-logo-header.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "edx-logo-header-png.jpg", 
             null
@@ -235,7 +235,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "es_subs_chocolate_rain_es.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -243,7 +243,7 @@
             "tag": "c4x"
         }, 
         "displayname": "es_subs_chocolate_rain_es.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@es_subs_chocolate_rain_es.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@es_subs_chocolate_rain_es.srt.sjson", 
         "import_path": "es_subs_chocolate_rain_es.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -252,7 +252,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "fr_subs_chocolate_rain_fr.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -260,7 +260,7 @@
             "tag": "c4x"
         }, 
         "displayname": "fr_subs_chocolate_rain_fr.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@fr_subs_chocolate_rain_fr.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@fr_subs_chocolate_rain_fr.srt.sjson", 
         "import_path": "fr_subs_chocolate_rain_fr.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -269,7 +269,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "html60.png", 
             "org": "edX", 
             "revision": null, 
@@ -277,13 +277,13 @@
             "tag": "c4x"
         }, 
         "displayname": "html60.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@html60.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@html60.png", 
         "import_path": "html60.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "html60-png.jpg", 
             null
@@ -293,7 +293,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "problem40.png", 
             "org": "edX", 
             "revision": null, 
@@ -301,13 +301,13 @@
             "tag": "c4x"
         }, 
         "displayname": "problem40.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@problem40.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@problem40.png", 
         "import_path": "problem40.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "problem40-png.jpg", 
             null
@@ -317,7 +317,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "subs_Hebrew.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -325,7 +325,7 @@
             "tag": "c4x"
         }, 
         "displayname": "subs_Hebrew.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@subs_Hebrew.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@subs_Hebrew.srt.sjson", 
         "import_path": "subs_Hebrew.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -334,7 +334,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "subs_YiiHNiSfmKI.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -342,7 +342,7 @@
             "tag": "c4x"
         }, 
         "displayname": "subs_YiiHNiSfmKI.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@subs_YiiHNiSfmKI.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@subs_YiiHNiSfmKI.srt.sjson", 
         "import_path": "subs_YiiHNiSfmKI.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -351,7 +351,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "subs_asset-v1_edX_TC102_2016_type_asset_block_chocolate_rain.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -359,7 +359,7 @@
             "tag": "c4x"
         }, 
         "displayname": "subs_asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@subs_asset-v1_edX_TC102_2016_type_asset_block_chocolate_rain.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@subs_asset-v1_edX_TC102_2016_type_asset_block_chocolate_rain.srt.sjson", 
         "import_path": "subs_asset-v1:edX+TC102+2016+type@asset+block@chocolate_rain.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -368,7 +368,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "subs_chocolate_rain.srt.sjson", 
             "org": "edX", 
             "revision": null, 
@@ -376,7 +376,7 @@
             "tag": "c4x"
         }, 
         "displayname": "subs_chocolate_rain.srt.sjson", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@subs_chocolate_rain.srt.sjson", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@subs_chocolate_rain.srt.sjson", 
         "import_path": "subs_chocolate_rain.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
@@ -385,7 +385,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "TS102", 
+            "course": "TC102", 
             "name": "video20.png", 
             "org": "edX", 
             "revision": null, 
@@ -393,13 +393,13 @@
             "tag": "c4x"
         }, 
         "displayname": "video20.png", 
-        "filename": "asset-v1:edX+TS102+2016+type@asset+block@video20.png", 
+        "filename": "asset-v1:edX+TC102+2016+type@asset+block@video20.png", 
         "import_path": "video20.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "edX", 
-            "TS102", 
+            "TC102", 
             "thumbnail", 
             "video20-png.jpg", 
             null

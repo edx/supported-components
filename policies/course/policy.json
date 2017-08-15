@@ -15,8 +15,6 @@
             }
         }, 
         "display_name": "Supported Components", 
-        "end": "2030-12-31T23:30:00Z", 
-        "enrollment_end": "2030-12-31T23:30:00Z", 
         "enrollment_start": "2016-01-01T00:00:00Z", 
         "instructor_info": {
             "instructors": []
